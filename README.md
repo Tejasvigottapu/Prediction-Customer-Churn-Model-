@@ -29,3 +29,5 @@ df.corr()
 
 11. At last we design a confusion matrix by using confusion_matrix() function by using the actual and the predicted values as arguments.
 
+The problem that i faced during project is while submitting the google form my gmail id not working so i have used my friend's gmail id and i am not ablw to make new gmail id because i was running out of time. I am Really sorry for my actions and i make sure this will not happen again. 
+
