@@ -1,4 +1,4 @@
-# SpeakX-Assignment-
+
 REPORT ON THE DATASET
 
 1. In the process of fitting and predicting the model, i used libraries namely pandas, numpy, matplotlib and seaborn.
